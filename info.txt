@@ -1,9 +1,8 @@
 Categories that I will have. Main "cat" will be in english number(like 1,2....) and its sub cat will be in roman number(i,ii....)
-1) Inspirational:
+1) Life:
     i) motivational
     ii) inspirational
-    iii) wisdom
-    iv) truth
+    iii) truth
 
 2) Humor:
     i) funny
