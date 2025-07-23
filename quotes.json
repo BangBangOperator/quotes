@@ -1,0 +1,626 @@
+[
+  {
+    "id": 1,
+    "quote": "Obstacles are the cost of greatness.",
+    "author": "Robin Sharma",
+    "category": ["motivational"]
+  },
+  {
+    "id": 2,
+    "quote": "The only person you are destined to become is the person you decide to be.",
+    "author": "Ralph Waldo Emerson",
+    "category": ["motivational"]
+  },
+  {
+    "id": 3,
+    "quote": "Action is the real measure of intelligence.",
+    "author": "Napoleon Hill",
+    "category": ["motivational"]
+  },
+  {
+    "id": 4,
+    "quote": "How bad do you want it?",
+    "author": "Gary Vaynerchuk",
+    "category": ["motivational"]
+  },
+  {
+    "id": 5,
+    "quote": "Blood, sweat and respect. First two you give. Last one you earn.",
+    "author": "Dwayne Johnson",
+    "category": ["motivational"]
+  },
+  {
+    "id": 6,
+    "quote": "Be so good they can’t ignore you.",
+    "author": "Steve Martin",
+    "category": ["motivational"]
+  },
+  {
+    "id": 7,
+    "quote": "All the power is within you. You can do anything.",
+    "author": "Swami Vivekananda",
+    "category": ["motivational"]
+  },
+  {
+    "id": 8,
+    "quote": "Show the world how much you’ll fight for the winners circle.",
+    "author": "Pat Riley",
+    "category": ["motivational"]
+  },
+  {
+    "id": 9,
+    "quote": "Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.",
+    "author": "Dale Carnegie",
+    "category": ["motivational"]
+  },
+  {
+    "id": 10,
+    "quote": "It’s not about excuses. You got a job to do there and do it. Find a way to be effective and not make excuses but just man up and play.",
+    "author": "Kobe Bryant",
+    "category": ["motivational"]
+  },
+  {
+    "id": 11,
+    "quote": "Learn to be comfortable in the uncomfortable. Learn to be peaceful, not bored. Learn to be inspired, not scared.",
+    "author": "Maxime Lagacé",
+    "category": ["motivational"]
+  },
+  {
+    "id": 12,
+    "quote": "What you want exists. Don’t settle until you get it.",
+    "author": "Jay Shetty",
+    "category": ["motivational"]
+  },
+  {
+    "id": 13,
+    "quote": "Do not wait to strike till the iron is hot. Make it hot by striking.",
+    "author": "William Butler Yeats",
+    "category": ["motivational"]
+  },
+  {
+    "id": 14,
+    "quote": "Work hard, be kind, and amazing things will happen.",
+    "author": "Conan O’Brien",
+    "category": ["motivational"]
+  },
+  {
+    "id": 15,
+    "quote": "What’s the tiniest step you can take? Do that first.",
+    "author": "Maxime Lagacé",
+    "category": ["motivational"]
+  },
+  {
+    "id": 16,
+    "quote": "I can’t believe that God put us on this earth to be ordinary.",
+    "author": "Lou Holtz",
+    "category": ["motivational"]
+  },
+  {
+    "id": 17,
+    "quote": "I want the world to be better because I was here.",
+    "author": "Will Smith",
+    "category": ["motivational"]
+  },
+  {
+    "id": 18,
+    "quote": "Don’t be afraid to give up the good to go for the great.",
+    "author": "John D. Rockefeller",
+    "category": ["motivational"]
+  },
+  {
+    "id": 19,
+    "quote": "There are four basic human needs; food, sleep, sex and revenge.",
+    "author": "Banksy",
+    "category": ["motivational"]
+  },
+  {
+    "id": 20,
+    "quote": "Motivation is a fire from within. If someone else tries to light that fire under you, chances are it will burn very briefly.",
+    "author": "Stephen Covey",
+    "category": ["motivational"]
+  },
+  {
+    "id": 21,
+    "quote": "Deep down you know what you want. Deep down you have what it takes.",
+    "author": "Maxime Lagacé",
+    "category": ["motivational"]
+  },
+  {
+    "id": 22,
+    "quote": "I wasn’t there to compete. I was there to win.",
+    "author": "Arnold Schwarzenegger",
+    "category": ["motivational"]
+  },
+  {
+    "id": 23,
+    "quote": "To seek greatness is the only righteous vengeance.",
+    "author": "Criss Jami",
+    "category": ["motivational"]
+  },
+  {
+    "id": 24,
+    "quote": "If you can dream it, you can do it.",
+    "author": "Walt Disney",
+    "category": ["motivational"]
+  },
+  {
+    "id": 25,
+    "quote": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney",
+    "category": ["motivational"]
+  },
+  {
+    "id": 26,
+    "quote": "It’s hard to beat a person who never gives up.",
+    "author": "Babe Ruth",
+    "category": ["motivational"]
+  },
+    {
+    "id": 27,
+    "quote": "Man is what he believes.",
+    "author": "Anton Chekhov",
+    "category": ["inspirational"]
+  },
+  {
+    "id": 28,
+    "quote": "A great man is hard on himself; a small man is hard on others.",
+    "author": "Confucius",
+    "category": ["inspirational"]
+  },
+  {
+    "id": 29,
+    "quote": "If you perform the sacrifice of doing your duty, you do not have to do anything else. Devoted to duty, man attains perfection.",
+    "author": "Bhagavad Gita",
+    "category": ["inspirational"]
+  },
+  {
+    "id": 30,
+    "quote": "A person can achieve everything by being simple and humble.",
+    "author": "The Vedas",
+    "category": ["inspirational"]
+  },
+  {
+    "id": 31,
+    "quote": "The most persevering becomes the most talented.",
+    "author": "Maxime Lagacé",
+    "category": ["inspirational"]
+  },
+  {
+    "id": 32,
+    "quote": "To have become a deeper man is the privilege of those who have suffered.",
+    "author": "Oscar Wilde",
+    "category": ["inspirational"]
+  },
+  {
+    "id": 33,
+    "quote": "You will earn the respect of all men if you begin by earning the respect of yourself.",
+    "author": "Musonius Rufus",
+    "category": ["inspirational"]
+  },
+  {
+    "id": 34,
+    "quote": "When you find peace within yourself, you also find peace without.",
+    "author": "Naga Devi",
+    "category": ["inspirational"]
+  },
+  {
+    "id": 35,
+    "quote": "Knowledge will give you power, but character respect.",
+    "author": "Bruce Lee",
+    "category": ["inspirational"]
+  },
+  {
+    "id": 36,
+    "quote": "The inner fire is the most important thing mankind possesses.",
+    "author": "Edith Sodergran",
+    "category": ["inspirational"]
+  },
+  {
+    "id": 37,
+    "quote": "What you aim at determines what you see.",
+    "author": "Jordan Peterson",
+    "category": ["inspirational"]
+  },
+  {
+    "id": 38,
+    "quote": "A wise man becomes free when he is ready to die at any moment.",
+    "author": "Diogenes",
+    "category": ["inspirational"]
+  },
+  {
+    "id": 39,
+    "quote": "The ignorant work for their own profit; the wise work for the welfare of the world, without thought for themselves.",
+    "author": "Bhagavad Gita",
+    "category": ["inspirational"]
+  },
+  {
+    "id": 40,
+    "quote": "Once you’re calm and fit, you have everything worth having, as the rest just comes and goes.",
+    "author": "Naval Ravikant",
+    "category": ["inspirational"]
+  },
+  {
+    "id": 41,
+    "quote": "Progress is made in solitude; profit is made in public.",
+    "author": "Sven Schnieders",
+    "category": ["inspirational"]
+  },
+  {
+    "id": 42,
+    "quote": "You should think in such a way that everybody could look into your soul and see what is transpiring there.",
+    "author": "Seneca",
+    "category": ["inspirational"]
+  },
+  {
+    "id": 43,
+    "quote": "Nearly all men can stand adversity, but if you want to test a man’s character, give him power.",
+    "author": "Abraham Lincoln",
+    "category": ["inspirational"]
+  },
+  {
+    "id": 44,
+    "quote": "The wiser you get, the less you care to look like a fool.",
+    "author": "Maxime Lagacé",
+    "category": ["inspirational"]
+  },
+  {
+    "id": 45,
+    "quote": "There is nothing with which every man is so afraid as getting to know how enormously much he is capable of doing and becoming.",
+    "author": "Søren Kierkegaard",
+    "category": ["inspirational"]
+  },
+  {
+    "id": 46,
+    "quote": "Do not waste time on things you cannot change or influence.",
+    "author": "Robert Greene",
+    "category": ["inspirational"]
+  },
+  {
+    "id": 47,
+    "quote": "We need men who can dream of things that never were.",
+    "author": "John F. Kennedy",
+    "category": ["inspirational"]
+  },
+  {
+    "id": 48,
+    "quote": "My idea of the modern stoic sage is someone who transforms fear into prudence, pain into information, mistakes into initiation, and desire into undertaking.",
+    "author": "Nassim Nicholas Taleb",
+    "category": ["inspirational"]
+  },
+  {
+    "id": 49,
+    "quote": "Conversation enriches the understanding, but solitude is the school of genius.",
+    "author": "Edward Gibbon",
+    "category": ["inspirational"]
+  },
+  {
+    "id": 50,
+    "quote": "You don’t succeed by being perfect. You succeed by doing good work, consistently.",
+    "author": "Thibaut",
+    "category": ["inspirational"]
+  },
+  {
+    "id": 51,
+    "quote": "What we achieve inwardly will change outer reality.",
+    "author": "Plutarch",
+    "category": ["inspirational"]
+  },
+  {
+    "id": 52,
+    "quote": "Riches have shut off many a man from the attainment of wisdom.",
+    "author": "Seneca",
+    "category": ["inspirational"]
+  },
+    {
+    "id": 53,
+    "quote": "Too many prefer gentle lies to hard truths.",
+    "author": "Shane Parrish",
+    "category": ["truth"]
+  },
+  {
+    "id": 54,
+    "quote": "The ideals which have always shone before me and filled me with joy are goodness, beauty, and truth.",
+    "author": "Albert Einstein",
+    "category": ["truth"]
+  },
+  {
+    "id": 55,
+    "quote": "Truth hurts but what hurts makes you stronger.",
+    "author": "Maxime Lagacé",
+    "category": ["truth"]
+  },
+  {
+    "id": 56,
+    "quote": "Nothing in this world is harder than speaking the truth, nothing easier than flattery.",
+    "author": "Fyodor Dostoevsky",
+    "category": ["truth"]
+  },
+  {
+    "id": 57,
+    "quote": "Discovering the truth about ourselves is a lifetime’s work, but it’s worth the effort.",
+    "author": "Fred Rogers",
+    "category": ["truth"]
+  },
+  {
+    "id": 58,
+    "quote": "In the long run, the most unpleasant truth is a safer companion than a pleasant falsehood.",
+    "author": "Theodore Roosevelt",
+    "category": ["truth"]
+  },
+  {
+    "id": 59,
+    "quote": "Only silence communicates the truth as it is.",
+    "author": "Osho",
+    "category": ["truth"]
+  },
+  {
+    "id": 60,
+    "quote": "The further a society drifts from the truth, the more it will hate those that speak it.",
+    "author": "George Orwell",
+    "category": ["truth"]
+  },
+  {
+    "id": 61,
+    "quote": "The things that we decide to run from are the truth. When you make excuses, you’re running from the truth.",
+    "author": "David Goggins",
+    "category": ["truth"]
+  },
+  {
+    "id": 62,
+    "quote": "In order to be effective truth must penetrate like an arrow – and that is likely to hurt.",
+    "author": "Wei Wu Wei",
+    "category": ["truth"]
+  },
+  {
+    "id": 63,
+    "quote": "The only way to tell the truth is to speak it with kindness. Only the words of a loving man can be heard.",
+    "author": "Henry David Thoreau",
+    "category": ["truth"]
+  },
+  {
+    "id": 64,
+    "quote": "If you wish to see the truth, then hold no opinion for or against.",
+    "author": "Osho",
+    "category": ["truth"]
+  },
+  {
+    "id": 65,
+    "quote": "If you’re seeking the truth then what you don’t know is more important than what you know.",
+    "author": "Jordan Peterson",
+    "category": ["truth"]
+  },
+  {
+    "id": 66,
+    "quote": "I tore myself away from the safe comfort of certainties through my love for the truth; and truth rewarded me.",
+    "author": "Simone de Beauvoir",
+    "category": ["truth"]
+  },
+  {
+    "id": 67,
+    "quote": "The truth may be out there, but the lies are inside your head.",
+    "author": "Terry Pratchett",
+    "category": ["truth"]
+  },
+  {
+    "id": 68,
+    "quote": "The presence of those seeking the truth is infinitely to be preferred to the presence of those who think they’ve found it.",
+    "author": "Terry Pratchett",
+    "category": ["truth"]
+  },
+  {
+    "id": 69,
+    "quote": "Telling the truth and making someone cry is better than telling a lie to make someone laugh.",
+    "author": "Paulo Coelho",
+    "category": ["truth"]
+  },
+  {
+    "id": 70,
+    "quote": "I speak the truth, not so much as I would, but as much as I dare; and I dare a little more as I grow older.",
+    "author": "Michel de Montaigne",
+    "category": ["truth"]
+  },
+  {
+    "id": 71,
+    "quote": "The path that leads to truth is littered with the bodies of the ignorant.",
+    "author": "Miyamoto Musashi",
+    "category": ["truth"]
+  },
+  {
+    "id": 72,
+    "quote": "There is nothing more necessary than truth, in comparison with it, everything else has only secondary value.",
+    "author": "Friedrich Nietzsche",
+    "category": ["truth"]
+  },
+  {
+    "id": 73,
+    "quote": "Those who have failed to work toward the truth have missed the purpose of living.",
+    "author": "Buddha",
+    "category": ["truth"]
+  },
+  {
+    "id": 74,
+    "quote": "If you cannot find the truth right where you are, where else do you expect to find it?",
+    "author": "Dogen",
+    "category": ["truth"]
+  },
+  {
+    "id": 75,
+    "quote": "The truth is like a lion; you don’t have to defend it. Let it loose; it will defend itself.",
+    "author": "Augustine of Hippo",
+    "category": ["truth"]
+  },
+  {
+    "id": 76,
+    "quote": "Truth: something hard to say and hard to hide.",
+    "author": "Paulo Coelho",
+    "category": ["truth"]
+  },
+  {
+    "id": 77,
+    "quote": "Truth is the best disinfectant.",
+    "author": "Paulo Coelho",
+    "category": ["truth"]
+  },
+  {
+    "id": 78,
+    "quote": "If you tell the truth, you don’t have to remember anything.",
+    "author": "Mark Twain",
+    "category": ["truth"]
+  },
+    {
+    "id": 79,
+    "quote": "I intend to live forever. So far, so good.",
+    "author": "Steven Wright",
+    "category": ["funny"]
+  },
+  {
+    "id": 80,
+    "quote": "Tomorrow is often the busiest day of the week.",
+    "author": "Spanish proverb",
+    "category": ["funny"]
+  },
+  {
+    "id": 81,
+    "quote": "When I was a kid my parents moved a lot, but I always found them.",
+    "author": "Rodney Dangerfield",
+    "category": ["funny"]
+  },
+  {
+    "id": 82,
+    "quote": "Rice is great when you’re hungry and you want 2000 of something.",
+    "author": "Mitch Hedberg",
+    "category": ["funny"]
+  },
+  {
+    "id": 83,
+    "quote": "I remixed a remix, it was back to normal.",
+    "author": "Mitch Hedberg",
+    "category": ["funny"]
+  },
+  {
+    "id": 84,
+    "quote": "The best way to teach your kids about taxes is by eating 30 percent of their ice cream.",
+    "author": "Bill Murray",
+    "category": ["funny"]
+  },
+  {
+    "id": 85,
+    "quote": "I’m writing a book. I’ve got the page numbers done.",
+    "author": "Steven Wright",
+    "category": ["funny"]
+  },
+  {
+    "id": 86,
+    "quote": "A lot of people are afraid of heights. Not me, I’m afraid of widths.",
+    "author": "Steven Wright",
+    "category": ["funny"]
+  },
+  {
+    "id": 87,
+    "quote": "I have always wanted to be somebody, but I see now I should have been more specific.",
+    "author": "Lily Tomlin",
+    "category": ["funny"]
+  },
+  {
+    "id": 88,
+    "quote": "Don’t be so humble – you are not that great.",
+    "author": "Golda Meir",
+    "category": ["funny"]
+  },
+  {
+    "id": 89,
+    "quote": "I was trying to daydream, but my mind kept wandering.",
+    "author": "Steven Wright",
+    "category": ["funny"]
+  },
+  {
+    "id": 90,
+    "quote": "I like Kit-Kat, unless I’m with four or more people.",
+    "author": "Mitch Hedberg",
+    "category": ["funny"]
+  },
+  {
+    "id": 91,
+    "quote": "It’s okay if you don’t like me. Not everyone has good taste.",
+    "author": "",
+    "category": ["funny"]
+  },
+  {
+    "id": 92,
+    "quote": "I live on a one-way street that’s also a dead end. I’m not sure how I got there.",
+    "author": "Steven Wright",
+    "category": ["funny"]
+  },
+  {
+    "id": 93,
+    "quote": "People are like music. Some speak the truth, and others are just noise.",
+    "author": "Bill Murray",
+    "category": ["funny"]
+  },
+  {
+    "id": 94,
+    "quote": "Going to church doesn’t make you a Christian any more than going to a garage makes you an automobile.",
+    "author": "Billy Sunday",
+    "category": ["funny"]
+  },
+  {
+    "id": 95,
+    "quote": "Never trust people who smile constantly. They’re either selling something or not very bright.",
+    "author": "Laurell K. Hamilton",
+    "category": ["funny"]
+  },
+  {
+    "id": 96,
+    "quote": "I did not attend his funeral, but I sent a nice letter saying I approved of it.",
+    "author": "Mark Twain",
+    "category": ["funny"]
+  },
+  {
+    "id": 97,
+    "quote": "A lie gets halfway around the world before the truth has a chance to get its pants on.",
+    "author": "Winston S. Churchill",
+    "category": ["funny"]
+  },
+  {
+    "id": 98,
+    "quote": "Everything is changing. People are taking the comedians seriously and the politicians as a joke.",
+    "author": "Will Rogers",
+    "category": ["funny"]
+  },
+  {
+    "id": 99,
+    "quote": "When life gives you lemons, squirt someone in the eye.",
+    "author": "Cathy Guisewite",
+    "category": ["funny"]
+  },
+  {
+    "id": 100,
+    "quote": "That’s why they call it the American Dream, because you have to be asleep to believe it.",
+    "author": "George Carlin",
+    "category": ["funny"]
+  },
+  {
+    "id": 101,
+    "quote": "I don’t understand why people would want to get rid of pigeons. They don’t bother no one.",
+    "author": "Mike Tyson",
+    "category": ["funny"]
+  },
+  {
+    "id": 102,
+    "quote": "I like long walks, especially when they are taken by people who annoy me.",
+    "author": "Fred Allen",
+    "category": ["funny"]
+  },
+  {
+    "id": 103,
+    "quote": "If you’re too open-minded; your brains will fall out.",
+    "author": "Lawrence Ferlinghetti",
+    "category": ["funny"]
+  },
+  {
+    "id": 104,
+    "quote": "If you think nobody cares about you, try missing a couple of payments.",
+    "author": "Steven Wright",
+    "category": ["funny"]
+  }
+]
