@@ -1,29 +1,29 @@
 Categories that I will have. Main "cat" will be in english number(like 1,2....) and its sub cat will be in roman number(i,ii....)
 1) Life:
-    i) motivational
-    ii) inspirational
-    iii) truth
+    i) motivational.
+    ii) inspirational.
+    iii) truth.
 
 2) Humor:
-    i) funny
-    ii) witty
+    i) funny.
+    ii) witty.
 
 3) Emotions:
-    i) love
-    ii) relationships
-    iii) heartbreak
-    iv) friendship
+    i) love.
+    ii) relationship.
+    iii) heartbreak.
+    iv) friendship.
 
 4) Personal Power:
-    i) mental health
-    ii) healing
-    iii) peace
-    iv) self-care
+    i) mental health.
+    ii) healing.
+    iii) peace.
+    iv) self-care.
 
 5) Cultural:
-    i) history
-    ii) politics
-    iii) feminism
+    i) history.
+    ii) politics.
+    iii) feminism.
 
 6) Extra:
     i) money
@@ -32,3 +32,4 @@ Categories that I will have. Main "cat" will be in english number(like 1,2....) 
 
 My plan is to have atleast of 10,000+ quotes in total. Lets see how it goes.
 
+Till now, 416 quotes in total

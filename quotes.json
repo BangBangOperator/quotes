@@ -622,5 +622,1877 @@
     "quote": "If you think nobody cares about you, try missing a couple of payments.",
     "author": "Steven Wright",
     "category": ["funny"]
+  },
+    {
+    "id": 105,
+    "quote": "Whoever established the high road and how high it should be should be fired.",
+    "author": "Sandra Bullock",
+    "category": ["witty"]
+  },
+  {
+    "id": 106,
+    "quote": "Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac?",
+    "author": "George Carlin",
+    "category": ["witty"]
+  },
+  {
+    "id": 107,
+    "quote": "If I’m not back in five minutes, just wait longer.",
+    "author": "Ace Ventura, “Ace Ventura: Pet Detective”",
+    "category": ["witty"]
+  },
+  {
+    "id": 108,
+    "quote": "I like my money where I can see it: hanging in my closet.",
+    "author": "Carrie Bradshaw, “Sex and the City”",
+    "category": ["witty"]
+  },
+  {
+    "id": 109,
+    "quote": "The suspense is terrible. I hope it’ll last.",
+    "author": "Willy Wonka, “Willy Wonka & the Chocolate Factory”",
+    "category": ["witty"]
+  },
+  {
+    "id": 110,
+    "quote": "Why do they call it rush hour when nothing moves?",
+    "author": "Robin Williams",
+    "category": ["witty"]
+  },
+  {
+    "id": 111,
+    "quote": "Don’t be so humble — you're not that great.",
+    "author": "Golda Meir",
+    "category": ["witty"]
+  },
+  {
+    "id": 112,
+    "quote": "If you can’t be kind, at least be vague.",
+    "author": "Judith Martin",
+    "category": ["witty"]
+  },
+  {
+    "id": 113,
+    "quote": "There is only one thing in the world worse than being talked about, and that is not being talked about.",
+    "author": "Oscar Wilde, “The Picture of Dorian Gray”",
+    "category": ["witty"]
+  },
+  {
+    "id": 114,
+    "quote": "Always forgive your enemies; nothing annoys them so much.",
+    "author": "Oscar Wilde",
+    "category": ["witty"]
+  },
+  {
+    "id": 115,
+    "quote": "Candy is dandy, but liquor is quicker.",
+    "author": "Ogden Nash, “Reflections on Ice Breaking”",
+    "category": ["witty"]
+  },
+  {
+    "id": 116,
+    "quote": "In real life, I assure you, there is no such thing as algebra.",
+    "author": "Fran Lebowitz",
+    "category": ["witty"]
+  },
+  {
+    "id": 117,
+    "quote": "Instant gratification takes too long.",
+    "author": "Carrie Fisher",
+    "category": ["witty"]
+  },
+  {
+    "id": 118,
+    "quote": "Accept who you are. Unless you’re a serial killer.",
+    "author": "Ellen DeGeneres",
+    "category": ["witty"]
+  },
+  {
+    "id": 119,
+    "quote": "Whoever said that money can’t buy happiness, simply didn’t know where to go shopping.",
+    "author": "Bo Derek",
+    "category": ["witty"]
+  },
+  {
+    "id": 120,
+    "quote": "Before you criticize someone, walk a mile in their shoes. That way, you'll be a mile from them, and you'll have their shoes.",
+    "author": "Jack Handy",
+    "category": ["witty"]
+  },
+  {
+    "id": 121,
+    "quote": "I’m not great at the advice — can I interest you in a sarcastic comment?",
+    "author": "Chandler Bing, “Friends”",
+    "category": ["witty"]
+  },
+  {
+    "id": 122,
+    "quote": "I’m sick of following my dreams, man. I’m just going to ask where they’re going and hook up with ’em later.",
+    "author": "Mitch Hedberg",
+    "category": ["witty"]
+  },
+  {
+    "id": 123,
+    "quote": "The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.",
+    "author": "Terry Pratchett, “Diggers”",
+    "category": ["witty"]
+  },
+  {
+    "id": 124,
+    "quote": "To call you stupid would be an insult to stupid people! I’ve known sheep that could outwit you. I’ve worn dresses with higher IQs.",
+    "author": "Wanda, “A Fish Called Wanda”",
+    "category": ["witty"]
+  },
+  {
+    "id": 125,
+    "quote": "Those people who think they know everything are a great annoyance to those of us who do.",
+    "author": "Isaac Asimov",
+    "category": ["witty"]
+  },
+  {
+    "id": 126,
+    "quote": "The reason I talk to myself is because I’m the only one whose answers I accept.",
+    "author": "George Carlin",
+    "category": ["witty"]
+  },
+  {
+    "id": 127,
+    "quote": "I’m not superstitious … but I am a little stitious.",
+    "author": "Michael Scott, “The Office”",
+    "category": ["witty"]
+  },
+  {
+    "id": 128,
+    "quote": "Here’s something to think about: How come you never see a headline like ‘Psychic Wins Lottery’?",
+    "author": "Jay Leno",
+    "category": ["witty"]
+  },
+  {
+    "id": 129,
+    "quote": "If God wanted us to bend over he would put diamonds on the floor.",
+    "author": "Joan Rivers",
+    "category": ["witty"]
+  },
+  {
+    "id": 130,
+    "quote": "It is useless to try to hold a person to anything he says while he’s madly in love, drunk, or running for office.",
+    "author": "Shirley MacLaine",
+    "category": ["witty"]
+  },
+    {
+    "id": 131,
+    "quote": "You call it madness, but I call it love.",
+    "author": "Don Byas",
+    "category": ["love"]
+  },
+  {
+    "id": 132,
+    "quote": "Where there is love there is life.",
+    "author": "Mahatma Gandhi",
+    "category": ["love"]
+  },
+  {
+    "id": 133,
+    "quote": "To love is risky. Not to love is foolish.",
+    "author": "Maxime Lagacé",
+    "category": ["love"]
+  },
+  {
+    "id": 134,
+    "quote": "To love is to burn, to be on fire.",
+    "author": "Jane Austen",
+    "category": ["love"]
+  },
+  {
+    "id": 135,
+    "quote": "When the power of love overcomes the love of power the world will know peace.",
+    "author": "Jimi Hendrix",
+    "category": ["love"]
+  },
+  {
+    "id": 136,
+    "quote": "Even better than being loved is being in love.",
+    "author": "Naval Ravikant",
+    "category": ["love"]
+  },
+  {
+    "id": 137,
+    "quote": "Love isn’t finding a perfect person. It’s seeing an imperfect person perfectly.",
+    "author": "Sam Keen",
+    "category": ["love"]
+  },
+  {
+    "id": 138,
+    "quote": "I know of no greater happiness than to be with you all the time, without interruption, without end.",
+    "author": "Franz Kafka",
+    "category": ["love"]
+  },
+  {
+    "id": 139,
+    "quote": "We love because it’s the only true adventure.",
+    "author": "Nikki Giovanni",
+    "category": ["love"]
+  },
+  {
+    "id": 140,
+    "quote": "The more I think it over, the more I feel that there is nothing more truly artistic than to love people.",
+    "author": "Vincent van Gogh",
+    "category": ["love"]
+  },
+  {
+    "id": 141,
+    "quote": "True love stories never have endings.",
+    "author": "Richard Bach",
+    "category": ["love"]
+  },
+  {
+    "id": 142,
+    "quote": "Love’s greatest gift is its ability to make everything it touches sacred.",
+    "author": "Barbara De Angelis",
+    "category": ["love"]
+  },
+  {
+    "id": 143,
+    "quote": "Love yourself. Then forget it. Then, love the world.",
+    "author": "Mary Oliver",
+    "category": ["love"]
+  },
+  {
+    "id": 144,
+    "quote": "Never make someone a priority when all you are to them is an option.",
+    "author": "Maya Angelou",
+    "category": ["love"]
+  },
+  {
+    "id": 145,
+    "quote": "Him that I love, I wish to be free – even from me.",
+    "author": "Anne Morrow Lindbergh",
+    "category": ["love"]
+  },
+  {
+    "id": 146,
+    "quote": "In the end we discover that to love and let go can be the same thing.",
+    "author": "Jack Kornfield",
+    "category": ["love"]
+  },
+  {
+    "id": 147,
+    "quote": "Love does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up.",
+    "author": "James Baldwin",
+    "category": ["love"]
+  },
+  {
+    "id": 148,
+    "quote": "Love must be as much a light as it is a flame.",
+    "author": "Henry David Thoreau",
+    "category": ["love"]
+  },
+  {
+    "id": 149,
+    "quote": "I wish I had done everything on Earth with you.",
+    "author": "The Great Gatsby",
+    "category": ["love"]
+  },
+  {
+    "id": 150,
+    "quote": "Love is not affectionate feeling, but a steady wish for the loved person’s ultimate good as far as it can be obtained.",
+    "author": "C.S. Lewis",
+    "category": ["love"]
+  },
+  {
+    "id": 151,
+    "quote": "A loving heart is the truest wisdom.",
+    "author": "Charles Dickens",
+    "category": ["love"]
+  },
+  {
+    "id": 152,
+    "quote": "Knowing, understanding and accepting yourself is your first step to everything you want in life.",
+    "author": "Maxime Lagacé",
+    "category": ["love"]
+  },
+  {
+    "id": 153,
+    "quote": "We must love one another or die.",
+    "author": "W. H. Auden",
+    "category": ["love"]
+  },
+  {
+    "id": 154,
+    "quote": "I love you, not only for what you are, but for what I am when I am with you.",
+    "author": "Roy Croft",
+    "category": ["love"]
+  },
+  {
+    "id": 155,
+    "quote": "Each time you love, love as deeply as if it were forever – only, nothing is eternal.",
+    "author": "Audre Lorde",
+    "category": ["love"]
+  },
+  {
+    "id": 156,
+    "quote": "Love is the expansion of two natures in such fashion that each include the other, each is enriched by the other.",
+    "author": "Felix Adler",
+    "category": ["love"]
+  },
+    {
+    "id": 157,
+    "quote": "A relationship where you can be weird together is your best choice.",
+    "author": "Paulo Coelho",
+    "category": ["relationship"]
+  },
+  {
+    "id": 158,
+    "quote": "Life appears to me too short to be spent in nursing animosity or registering wrongs.",
+    "author": "Charlotte Brontë",
+    "category": ["relationship"]
+  },
+  {
+    "id": 159,
+    "quote": "When your heart has room for everybody then your heart is full of love.",
+    "author": "Fred Rogers",
+    "category": ["relationship"]
+  },
+  {
+    "id": 160,
+    "quote": "There’s only one thing more precious than our time and that’s who we spend it on.",
+    "author": "Leo Christopher",
+    "category": ["relationship"]
+  },
+  {
+    "id": 161,
+    "quote": "Stay away from people who makes you feel like you are wasting their time.",
+    "author": "Paulo Coelho",
+    "category": ["relationship"]
+  },
+  {
+    "id": 162,
+    "quote": "My experience is that the teachers we need most are the people we’re living with right now.",
+    "author": "Byron Katie",
+    "category": ["relationship"]
+  },
+  {
+    "id": 163,
+    "quote": "People are unreasonable, illogical, and self-centered. Love them anyway.",
+    "author": "Mother Teresa",
+    "category": ["relationship"]
+  },
+  {
+    "id": 164,
+    "quote": "Never close your lips to those whom you have already opened your heart.",
+    "author": "Charles Dickens",
+    "category": ["relationship"]
+  },
+  {
+    "id": 165,
+    "quote": "My friends are my estate.",
+    "author": "Emily Dickinson",
+    "category": ["relationship"]
+  },
+  {
+    "id": 166,
+    "quote": "I’ve come to understand that listening is one of the most important things we can do for one another… if we care, we can listen.",
+    "author": "Fred Rogers",
+    "category": ["relationship"]
+  },
+  {
+    "id": 167,
+    "quote": "When our friends are present, we ought to treat them well; and when they are absent, to speak of them well.",
+    "author": "Epictetus (Enchiridion)",
+    "category": ["relationship"]
+  },
+  {
+    "id": 168,
+    "quote": "When humans are ranked instead of linked, everyone loses.",
+    "author": "Gloria Steinem (My Life on the Road)",
+    "category": ["relationship"]
+  },
+  {
+    "id": 169,
+    "quote": "The more you judge, the more you separate yourself.",
+    "author": "Naval Ravikant",
+    "category": ["relationship"]
+  },
+  {
+    "id": 170,
+    "quote": "Politeness and consideration for others is like investing pennies and getting dollars back.",
+    "author": "Thomas Sowell",
+    "category": ["relationship"]
+  },
+  {
+    "id": 171,
+    "quote": "Try to be a rainbow in someone’s cloud.",
+    "author": "Maya Angelou",
+    "category": ["relationship"]
+  },
+  {
+    "id": 172,
+    "quote": "There are many times when it is better to be kind than clever.",
+    "author": "Thibaut",
+    "category": ["relationship"]
+  },
+  {
+    "id": 173,
+    "quote": "Remember to stay away from people who have a problem for every solution.",
+    "author": "Paulo Coelho",
+    "category": ["relationship"]
+  },
+  {
+    "id": 174,
+    "quote": "Friendship isn’t a big thing – it’s a million little things.",
+    "author": "Paulo Coelho",
+    "category": ["relationship"]
+  },
+  {
+    "id": 175,
+    "quote": "Quit wanting them to be the way you want them to be. Just love them.",
+    "author": "Kamal Ravikant",
+    "category": ["relationship"]
+  },
+  {
+    "id": 176,
+    "quote": "Eliminate time spent with people who would rather drone on about their misery than hear about your successes.",
+    "author": "Taylor Burrowes",
+    "category": ["relationship"]
+  },
+  {
+    "id": 177,
+    "quote": "Everyone is normal until you get to know them.",
+    "author": "Brent Beshore",
+    "category": ["relationship"]
+  },
+  {
+    "id": 178,
+    "quote": "Never look up to anybody, never look down on anybody. You look them eye to eye.",
+    "author": "Unknown",
+    "category": ["relationship"]
+  },
+  {
+    "id": 179,
+    "quote": "We’re often afraid of being vulnerable, but vulnerability creates genuine connection.",
+    "author": "Gabby Bernstein",
+    "category": ["relationship"]
+  },
+  {
+    "id": 180,
+    "quote": "We humans definitely need other people to keep us human.",
+    "author": "Terry Pratchett",
+    "category": ["relationship"]
+  },
+  {
+    "id": 181,
+    "quote": "So much of life is being present with the people you love.",
+    "author": "Shane Parrish",
+    "category": ["relationship"]
+  },
+  {
+    "id": 182,
+    "quote": "Seek first to understand, then to be understood.",
+    "author": "Stephen R. Covey",
+    "category": ["relationship"]
+  },
+    {
+    "id": 183,
+    "quote": "If you find it in your heart to care for somebody else, you will have succeeded.",
+    "author": "Maya Angelou",
+    "category": ["heartbreak"]
+  },
+  {
+    "id": 184,
+    "quote": "You think your pain and your heartbreak are unprecedented in the history of the world, but then you read. It was books that taught me that the things that tormented me most were the very things that connected me with all the people who were alive, who had ever been alive.",
+    "author": "James Baldwin",
+    "category": ["heartbreak"]
+  },
+  {
+    "id": 185,
+    "quote": "You can’t have heartbreak without love. If your heart was really broken, then at least you know you really loved him.",
+    "author": "Leila Sales, “Past Perfect”",
+    "category": ["heartbreak"]
+  },
+  {
+    "id": 186,
+    "quote": "When we miss someone often, what we really miss is the part of us that with this someone awakens.",
+    "author": "Luigina Sgarro",
+    "category": ["heartbreak"]
+  },
+  {
+    "id": 187,
+    "quote": "One day you’re going to remember me and how much I loved you … then you’re going to hate yourself for letting me go.",
+    "author": "Drake",
+    "category": ["heartbreak"]
+  },
+  {
+    "id": 188,
+    "quote": "Every time your heart is broken, a doorway cracks open to a world full of new beginnings, new opportunities.",
+    "author": "Patti Roberts",
+    "category": ["heartbreak"]
+  },
+  {
+    "id": 189,
+    "quote": "And they can’t understand, what hurts more—missing the other person, or pretending not to.",
+    "author": "Khadija Rupa",
+    "category": ["heartbreak"]
+  },
+  {
+    "id": 190,
+    "quote": "Sometimes good things fall apart so better things can fall together.",
+    "author": "Marilyn Monroe",
+    "category": ["heartbreak"]
+  },
+  {
+    "id": 191,
+    "quote": "My tongue will tell the anger of my heart, or else my heart, concealing it, will break.",
+    "author": "William Shakespeare, “The Taming of the Shrew”",
+    "category": ["heartbreak"]
+  },
+  {
+    "id": 192,
+    "quote": "I’d rather love a million times and have my heart broken every time, than hold a permanently empty heart forever.",
+    "author": "H.C. Paye",
+    "category": ["heartbreak"]
+  },
+  {
+    "id": 193,
+    "quote": "A broken heart is just the growing pains necessary so that you can love more completely when the real thing comes along.",
+    "author": "J.S.B. Morse, “Now and at the Hour of Our Death”",
+    "category": ["heartbreak"]
+  },
+  {
+    "id": 194,
+    "quote": "The broken heart. You think you will die, but you keep living, day after day after terrible day.",
+    "author": "Charles Dickens, “Great Expectations”",
+    "category": ["heartbreak"]
+  },
+  {
+    "id": 195,
+    "quote": "It is strange how often a heart must be broken before the years can make it wise.",
+    "author": "Sara Teasdale",
+    "category": ["heartbreak"]
+  },
+  {
+    "id": 196,
+    "quote": "’Tis better to have loved and lost than never to have loved at all.",
+    "author": "Alfred Lord Tennyson",
+    "category": ["heartbreak"]
+  },
+  {
+    "id": 197,
+    "quote": "Stab the body and it heals, but injure the heart and the wound lasts a lifetime.",
+    "author": "Mineko Iwasaki",
+    "category": ["heartbreak"]
+  },
+  {
+    "id": 198,
+    "quote": "I’ve been heartbroken. I’ve broken hearts. That’s part of life, and it’s part of figuring out who you are so you can find the right partner.",
+    "author": "Heidi Klum",
+    "category": ["heartbreak"]
+  },
+  {
+    "id": 199,
+    "quote": "The heart was made to be broken.",
+    "author": "Oscar Wilde",
+    "category": ["heartbreak"]
+  },
+  {
+    "id": 200,
+    "quote": "Some people are going to leave, but that’s not the end of your story. That’s the end of their part in your story.",
+    "author": "Faraaz Kazi",
+    "category": ["heartbreak"]
+  },
+  {
+    "id": 201,
+    "quote": "My heart no longer felt as if it belonged to me. It now felt as it had been stolen, torn from my chest by someone who wanted no part of it.",
+    "author": "Meredith Taylor, “Churning Water”",
+    "category": ["heartbreak"]
+  },
+  {
+    "id": 202,
+    "quote": "There is an ocean of silence between us… and I am drowning in it.",
+    "author": "Ranata Suzuki",
+    "category": ["heartbreak"]
+  },
+  {
+    "id": 203,
+    "quote": "When you are in love, and you get hurt, it’s like a cut—it will heal, but there will always be a scar.",
+    "author": "Soo Jie",
+    "category": ["heartbreak"]
+  },
+  {
+    "id": 204,
+    "quote": "Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.",
+    "author": "Washington Irving",
+    "category": ["heartbreak"]
+  },
+  {
+    "id": 205,
+    "quote": "A girl doesn’t need anyone who doesn’t need her.",
+    "author": "Marilyn Monroe",
+    "category": ["heartbreak"]
+  },
+  {
+    "id": 206,
+    "quote": "Perhaps someday I’ll crawl back home, beaten, defeated. But not as long as I can make stories out of my heartbreak, beauty out of sorrow.",
+    "author": "Sylvia Plath",
+    "category": ["heartbreak"]
+  },
+  {
+    "id": 207,
+    "quote": "The human heart is the only thing whose worth increases the more it is broken.",
+    "author": "Shakieb Orgunwall",
+    "category": ["heartbreak"]
+  },
+  {
+    "id": 208,
+    "quote": "To fall in love is awfully simple, but to fall out of love is simply awful.",
+    "author": "Bess Myerson",
+    "category": ["heartbreak"]
+  },
+    {
+    "id": 209,
+    "quote": "Friendship is a sheltering tree.",
+    "author": "Samuel Taylor Coleridge",
+    "category": ["friendship"]
+  },
+  {
+    "id": 210,
+    "quote": "Good friends are hard to find, harder to leave and impossible to forget.",
+    "author": "G. Randolf",
+    "category": ["friendship"]
+  },
+  {
+    "id": 211,
+    "quote": "The ornament of a house is the friends who frequent it.",
+    "author": "Ralph Waldo Emerson",
+    "category": ["friendship"]
+  },
+  {
+    "id": 212,
+    "quote": "Best friends don’t expect anything from you. They just accept you the way you are.",
+    "author": "Maxime Lagacé",
+    "category": ["friendship"]
+  },
+  {
+    "id": 213,
+    "quote": "A friend is someone who knows all about you and still loves you.",
+    "author": "Elbert Hubbard",
+    "category": ["friendship"]
+  },
+  {
+    "id": 214,
+    "quote": "I don’t like that man. I must get to know him better.",
+    "author": "Abraham Lincoln",
+    "category": ["friendship"]
+  },
+  {
+    "id": 215,
+    "quote": "True friendship is like sound health. The value of it is seldom known until it be lost.",
+    "author": "Charles Caleb Colton",
+    "category": ["friendship"]
+  },
+  {
+    "id": 216,
+    "quote": "A friend is someone who helps you up when you’re down, and if they can’t, they lay down beside you and listen.",
+    "author": "Winnie The Pooh",
+    "category": ["friendship"]
+  },
+  {
+    "id": 217,
+    "quote": "Be true to your work, your word, and your friend.",
+    "author": "Henry David Thoreau",
+    "category": ["friendship"]
+  },
+  {
+    "id": 218,
+    "quote": "It’s not what we have, but who we have.",
+    "author": "Winnie The Pooh",
+    "category": ["friendship"]
+  },
+  {
+    "id": 219,
+    "quote": "I have learned that to be with those I like is enough.",
+    "author": "Walt Whitman",
+    "category": ["friendship"]
+  },
+  {
+    "id": 220,
+    "quote": "Friendship is not about whom you know the longest. It is about who came and never left.",
+    "author": "Paulo Coelho",
+    "category": ["friendship"]
+  },
+  {
+    "id": 221,
+    "quote": "Some people go to priests; others to poetry; I to my friends.",
+    "author": "Virginia Woolf",
+    "category": ["friendship"]
+  },
+  {
+    "id": 222,
+    "quote": "A friend is one of the nicest things you can have and one of the best things you can be.",
+    "author": "Winnie The Pooh",
+    "category": ["friendship"]
+  },
+  {
+    "id": 223,
+    "quote": "One friend in a storm is worth more than a thousand friends in sunshine.",
+    "author": "Matshona Dhliwayo",
+    "category": ["friendship"]
+  },
+  {
+    "id": 224,
+    "quote": "A friend is a gift you give yourself.",
+    "author": "Robert Louis Stevenson",
+    "category": ["friendship"]
+  },
+  {
+    "id": 225,
+    "quote": "The language of friendship is not words but meanings.",
+    "author": "Henry David Thoreau",
+    "category": ["friendship"]
+  },
+  {
+    "id": 226,
+    "quote": "There are no strangers here; Only friends you haven’t yet met.",
+    "author": "William Butler Yeats",
+    "category": ["friendship"]
+  },
+  {
+    "id": 227,
+    "quote": "I would rather walk with a friend in the dark, than alone in the light.",
+    "author": "Helen Keller",
+    "category": ["friendship"]
+  },
+  {
+    "id": 228,
+    "quote": "There cannot be friendship without equality.",
+    "author": "Swami Sivananda",
+    "category": ["friendship"]
+  },
+  {
+    "id": 229,
+    "quote": "Friendships that last have high connections, high mutual respect and low expectations.",
+    "author": "Maxime Lagacé",
+    "category": ["friendship"]
+  },
+  {
+    "id": 230,
+    "quote": "My definition of a friend is somebody who adores you even though they know the things you’re most ashamed of.",
+    "author": "Jodie Foster",
+    "category": ["friendship"]
+  },
+  {
+    "id": 231,
+    "quote": "Man’s best support is a very dear friend.",
+    "author": "Cicero",
+    "category": ["friendship"]
+  },
+  {
+    "id": 232,
+    "quote": "Friendship consists in forgetting what one gives and remembering what one receives.",
+    "author": "Alexander Dumas",
+    "category": ["friendship"]
+  },
+  {
+    "id": 233,
+    "quote": "Let there be no purpose in friendship save the deepening of the spirit.",
+    "author": "Kahlil Gibran",
+    "category": ["friendship"]
+  },
+  {
+    "id": 234,
+    "quote": "We are all travelers in the wilderness of this world, and the best we can find in our travels is an honest friend.",
+    "author": "Robert Louis Stevenson",
+    "category": ["friendship"]
+  },
+    {
+    "id": 235,
+    "quote": "Give yourself permission to slow down.",
+    "author": "Gabby Bernstein",
+    "category": ["mental health"]
+  },
+  {
+    "id": 236,
+    "quote": "Start prioritizing your mental health instead of adjusting to toxic spaces.",
+    "author": "Thema Bryant-Davis",
+    "category": ["mental health"]
+  },
+  {
+    "id": 237,
+    "quote": "Life gets better when health becomes your first priority.",
+    "author": "Maxime Lagacé",
+    "category": ["mental health"]
+  },
+  {
+    "id": 238,
+    "quote": "Trauma isn’t what happens to you, it’s what happens inside you.",
+    "author": "Gabor Maté",
+    "category": ["mental health"]
+  },
+  {
+    "id": 239,
+    "quote": "Meditate. It won’t be fun but it will surface what you need to deal with.",
+    "author": "Naval Ravikant",
+    "category": ["mental health"]
+  },
+  {
+    "id": 240,
+    "quote": "Digital addiction is going to be one of the great mental health crises of our time.",
+    "author": "Sam Altman",
+    "category": ["mental health"]
+  },
+  {
+    "id": 241,
+    "quote": "There is no health without mental health.",
+    "author": "David Satcher",
+    "category": ["mental health"]
+  },
+  {
+    "id": 242,
+    "quote": "Learning to ignore things is one of the great paths to inner peace.",
+    "author": "Robert J. Sawyer",
+    "category": ["mental health"]
+  },
+  {
+    "id": 243,
+    "quote": "Sobriety is a myth, you always find a new addiction.",
+    "author": "Thibaut",
+    "category": ["mental health"]
+  },
+  {
+    "id": 244,
+    "quote": "We have so many drugs now, electronic and chemical, that most of us are junkies most of the time.",
+    "author": "Naval Ravikant",
+    "category": ["mental health"]
+  },
+  {
+    "id": 245,
+    "quote": "More drugs are taken to quiet the mind than to heal the body.",
+    "author": "Naval Ravikant",
+    "category": ["mental health"]
+  },
+  {
+    "id": 246,
+    "quote": "Persistent, non-specific anxiety is the result of wanting so much, talking so much, and doing so much that you lose touch with the quiet joys of solitude.",
+    "author": "Naval Ravikant",
+    "category": ["mental health"]
+  },
+  {
+    "id": 247,
+    "quote": "There is hope, even when your brain tells you there isn’t.",
+    "author": "John Green",
+    "category": ["mental health"]
+  },
+  {
+    "id": 248,
+    "quote": "Depression is a liar. Anxiety is a deceiver. PTSD is a trickster. As we heal, we gain more clarity.",
+    "author": "Thema Bryant-Davis",
+    "category": ["mental health"]
+  },
+  {
+    "id": 249,
+    "quote": "The largest part of what we call ‘personality’ is determined by how we’ve opted to defend ourselves against anxiety and sadness.",
+    "author": "Alain de Botton",
+    "category": ["mental health"]
+  },
+  {
+    "id": 250,
+    "quote": "Whatever your experience with mental illness, you deserve to be heard, to be understood and to get help if you need it.",
+    "author": "Haley Quinn",
+    "category": ["mental health"]
+  },
+  {
+    "id": 251,
+    "quote": "Identification with our mind causes thought to become compulsive.",
+    "author": "Eckhart Tolle",
+    "category": ["mental health"]
+  },
+  {
+    "id": 252,
+    "quote": "Don’t expect inner peace if you still hate your past.",
+    "author": "Maxime Lagacé",
+    "category": ["mental health"]
+  },
+  {
+    "id": 253,
+    "quote": "If you take care of your mind, you take care of the world.",
+    "author": "Arianna Huffington",
+    "category": ["mental health"]
+  },
+  {
+    "id": 254,
+    "quote": "Sometimes the only thing you could do for people was to be there.",
+    "author": "Terry Pratchett",
+    "category": ["mental health"]
+  },
+  {
+    "id": 255,
+    "quote": "Not until we are lost do we begin to understand ourselves.",
+    "author": "Henry David Thoreau",
+    "category": ["mental health"]
+  },
+  {
+    "id": 256,
+    "quote": "I had nothing to offer anybody except my own confusion.",
+    "author": "Jack Kerouac",
+    "category": ["mental health"]
+  },
+  {
+    "id": 257,
+    "quote": "The thing I’m most afraid of is me. Of not knowing what I’m going to do. Of not knowing what I’m doing right now.",
+    "author": "Haruki Murakami",
+    "category": ["mental health"]
+  },
+  {
+    "id": 258,
+    "quote": "Real loneliness is not necessarily limited to when you are alone.",
+    "author": "Charles Bukowski",
+    "category": ["mental health"]
+  },
+  {
+    "id": 259,
+    "quote": "Numbing the pain for a while will make it worse when you finally feel it.",
+    "author": "Albus Dumbledore",
+    "category": ["mental health"]
+  },
+  {
+    "id": 260,
+    "quote": "The worst part of having a mental illness is people expect you to behave as if you don’t.",
+    "author": "Joker",
+    "category": ["mental health"]
+  },
+    {
+    "id": 261,
+    "quote": "Silence is a place of great power and healing.",
+    "author": "Rachel Naomi Remen",
+    "category": ["healing"]
+  },
+  {
+    "id": 262,
+    "quote": "Self-forgiveness can heal you.",
+    "author": "Andrew Zaffina",
+    "category": ["healing"]
+  },
+  {
+    "id": 263,
+    "quote": "It doesn’t hurt me unless I interpret it’s happening as harmful to me. I can choose not to.",
+    "author": "Marcus Aurelius",
+    "category": ["healing"]
+  },
+  {
+    "id": 264,
+    "quote": "A clear mind heals everything that needs to be healed.",
+    "author": "Byron Katie",
+    "category": ["healing"]
+  },
+  {
+    "id": 265,
+    "quote": "Stop looking for happiness in the same place you lost it.",
+    "author": "Paulo Coelho",
+    "category": ["healing"]
+  },
+  {
+    "id": 266,
+    "quote": "If we are to nurture and heal, we must admit that the wounds exist.",
+    "author": "Iyanla Vanzant",
+    "category": ["healing"]
+  },
+  {
+    "id": 267,
+    "quote": "Every breath and every step can be nourishing and healing.",
+    "author": "Thich Nhat Hanh",
+    "category": ["healing"]
+  },
+  {
+    "id": 268,
+    "quote": "Healing is an art. It takes time, it takes practice. It takes love.",
+    "author": "Maza Dohta",
+    "category": ["healing"]
+  },
+  {
+    "id": 269,
+    "quote": "I do not live for what the world thinks of me, but for what I think of myself.",
+    "author": "Jack London",
+    "category": ["healing"]
+  },
+  {
+    "id": 270,
+    "quote": "The moment you start feeling whole and grateful is when your brain starts to begin healing.",
+    "author": "Joe Dispenza",
+    "category": ["healing"]
+  },
+  {
+    "id": 271,
+    "quote": "Let go of anything that you don’t love about your life story and just keep the things you love.",
+    "author": "Rhonda Byrne",
+    "category": ["healing"]
+  },
+  {
+    "id": 272,
+    "quote": "The more seriously you take yourself, the unhappier you’re going to be.",
+    "author": "Naval Ravikant",
+    "category": ["healing"]
+  },
+  {
+    "id": 273,
+    "quote": "As confusion disappears, so does suffering.",
+    "author": "Ringu Tulku",
+    "category": ["healing"]
+  },
+  {
+    "id": 274,
+    "quote": "The key to dealing with pain is not minding that it hurts.",
+    "author": "Ed Latimore",
+    "category": ["healing"]
+  },
+  {
+    "id": 275,
+    "quote": "Self-knowledge is the beginning of wisdom, which is the ending of fear.",
+    "author": "Jiddu Krishnamurti",
+    "category": ["healing"]
+  },
+  {
+    "id": 276,
+    "quote": "Detachment is another way of reclaiming your power. Laughter is another way of healing.",
+    "author": "Maxime Lagacé",
+    "category": ["healing"]
+  },
+  {
+    "id": 277,
+    "quote": "Simplicity begins when you stop believing everything you think.",
+    "author": "Courtney Carver",
+    "category": ["healing"]
+  },
+  {
+    "id": 278,
+    "quote": "Healing does not mean going back to the way things were before, but rather allowing what is now to move us closer to God.",
+    "author": "Ram Dass",
+    "category": ["healing"]
+  },
+  {
+    "id": 279,
+    "quote": "To solve all problems, be here, in reality, now. Recognize that they exist only in a past or a future.",
+    "author": "Byron Katie",
+    "category": ["healing"]
+  },
+  {
+    "id": 280,
+    "quote": "The certainty you’re craving makes you suffer more than the uncertainty you’re avoiding.",
+    "author": "Maxime Lagacé",
+    "category": ["healing"]
+  },
+  {
+    "id": 281,
+    "quote": "If you get your mind in order, everything else gets that much easier.",
+    "author": "Mark Manson",
+    "category": ["healing"]
+  },
+  {
+    "id": 282,
+    "quote": "Healing doesn’t eliminate all the hard moments. It changes how you handle them.",
+    "author": "Thema Bryant-Davis",
+    "category": ["healing"]
+  },
+  {
+    "id": 283,
+    "quote": "When there is complete understanding of oneself, then there is the ending of conflict.",
+    "author": "Jiddu Krishnamurti",
+    "category": ["healing"]
+  },
+  {
+    "id": 284,
+    "quote": "You can clutch the past so tightly to your chest that it leaves your arms too full to embrace the present.",
+    "author": "Jan Glidewell",
+    "category": ["healing"]
+  },
+  {
+    "id": 285,
+    "quote": "At the center of all desires is the very one that is never examined: the desire to become happy.",
+    "author": "James Pierce",
+    "category": ["healing"]
+  },
+  {
+    "id": 286,
+    "quote": "The things to which you are attached will take control of your life.",
+    "author": "James Pierce",
+    "category": ["healing"]
+  },
+    {
+    "id": 287,
+    "quote": "World peace begins with inner peace.",
+    "author": "14th Dalai Lama",
+    "category": ["peace"]
+  },
+  {
+    "id": 288,
+    "quote": "Peace in ourselves, peace in the world.",
+    "author": "Thich Nhat Hanh",
+    "category": ["peace"]
+  },
+  {
+    "id": 289,
+    "quote": "Don’t gain the world and lose your soul, wisdom is better than silver or gold.",
+    "author": "Bob Marley",
+    "category": ["peace"]
+  },
+  {
+    "id": 290,
+    "quote": "You can’t shake hands with a clenched fist.",
+    "author": "Indira Gandhi",
+    "category": ["peace"]
+  },
+  {
+    "id": 291,
+    "quote": "First keep the peace within yourself, then you can also bring peace to others.",
+    "author": "Thomas a Kempis",
+    "category": ["peace"]
+  },
+  {
+    "id": 292,
+    "quote": "An eye for an eye will only make the whole world blind.",
+    "author": "Mahatma Gandhi",
+    "category": ["peace"]
+  },
+  {
+    "id": 293,
+    "quote": "In the midst of movement and chaos, keep stillness inside of you.",
+    "author": "Deepak Chopra",
+    "category": ["peace"]
+  },
+  {
+    "id": 294,
+    "quote": "If there must be trouble let it be in my day, that my child may have peace.",
+    "author": "Thomas Paine",
+    "category": ["peace"]
+  },
+  {
+    "id": 295,
+    "quote": "If everyone demanded peace instead of another television set, then there’d be peace.",
+    "author": "John Lennon",
+    "category": ["peace"]
+  },
+  {
+    "id": 296,
+    "quote": "You cannot find peace by avoiding life.",
+    "author": "Virginia Woolf",
+    "category": ["peace"]
+  },
+  {
+    "id": 297,
+    "quote": "Make peace with your broken pieces.",
+    "author": "Unknown",
+    "category": ["peace"]
+  },
+  {
+    "id": 298,
+    "quote": "Worrying does not take away tomorrow’s troubles, it takes away today’s peace.",
+    "author": "Unknown",
+    "category": ["peace"]
+  },
+  {
+    "id": 299,
+    "quote": "There is no way to peace, peace is the way.",
+    "author": "A.J. Muste",
+    "category": ["peace"]
+  },
+  {
+    "id": 300,
+    "quote": "Barbecue may not be the road to world peace, but it’s a start.",
+    "author": "Anthony Bourdain",
+    "category": ["peace"]
+  },
+  {
+    "id": 301,
+    "quote": "The practice of peace and reconciliation is one of the most vital and artistic of human actions.",
+    "author": "Thich Nhat Hanh",
+    "category": ["peace"]
+  },
+  {
+    "id": 302,
+    "quote": "The world is a dangerous place to live; not because of the people who are evil, but because of the people who don’t do anything about it.",
+    "author": "Albert Einstein",
+    "category": ["peace"]
+  },
+  {
+    "id": 303,
+    "quote": "Peace is not only better than war, but infinitely more arduous.",
+    "author": "George Bernard Shaw",
+    "category": ["peace"]
+  },
+  {
+    "id": 304,
+    "quote": "Peace is not achieved by controlling nations, but mastering our thoughts.",
+    "author": "John Harricharan",
+    "category": ["peace"]
+  },
+  {
+    "id": 305,
+    "quote": "Peace is not the absence of war but the presence of justice.",
+    "author": "Harrison Ford",
+    "category": ["peace"]
+  },
+  {
+    "id": 306,
+    "quote": "Peace is not the absence of war; it is a virtue; a state of mind; a disposition for benevolence; confidence; and justice.",
+    "author": "Baruch Spinoza",
+    "category": ["peace"]
+  },
+  {
+    "id": 307,
+    "quote": "Peace is costly but it is worth the expense.",
+    "author": "African proverb",
+    "category": ["peace"]
+  },
+  {
+    "id": 308,
+    "quote": "Peace is the only battle worth waging.",
+    "author": "Albert Camus",
+    "category": ["peace"]
+  },
+  {
+    "id": 309,
+    "quote": "Only art and music have the power to bring peace.",
+    "author": "Yoko Ono",
+    "category": ["peace"]
+  },
+  {
+    "id": 310,
+    "quote": "I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.",
+    "author": "Albert Einstein",
+    "category": ["peace"]
+  },
+  {
+    "id": 311,
+    "quote": "We don’t realize that, somewhere within us all, there does exist a supreme self who is eternally at peace.",
+    "author": "Elizabeth Gilbert",
+    "category": ["peace"]
+  },
+  {
+    "id": 312,
+    "quote": "The care of human life and happiness, and not their destruction, is the first and only object of good government.",
+    "author": "Thomas Jefferson",
+    "category": ["peace"]
+  },
+    {
+    "id": 313,
+    "quote": "Self-care is not a luxury, it’s a priority.",
+    "author": "Kim Leyva",
+    "category": ["selfcare"]
+  },
+  {
+    "id": 314,
+    "quote": "Closing your eyes and listening to silence is self-care.",
+    "author": "Maxime Lagacé",
+    "category": ["selfcare"]
+  },
+  {
+    "id": 315,
+    "quote": "Your opinion of you is the only thing that matters.",
+    "author": "Gal Shapira",
+    "category": ["selfcare"]
+  },
+  {
+    "id": 316,
+    "quote": "The greatest thing you can give yourself is freedom from what others think.",
+    "author": "Abraham Hicks",
+    "category": ["selfcare"]
+  },
+  {
+    "id": 317,
+    "quote": "Never love anyone who treats you like you’re ordinary.",
+    "author": "Oscar Wilde",
+    "category": ["selfcare"]
+  },
+  {
+    "id": 318,
+    "quote": "Don’t say “maybe” if you want to say no.",
+    "author": "Paulo Coelho",
+    "category": ["selfcare"]
+  },
+  {
+    "id": 319,
+    "quote": "Forgiving people in silence and never speaking to them again is a form of self-care.",
+    "author": "Aaron Will",
+    "category": ["selfcare"]
+  },
+  {
+    "id": 320,
+    "quote": "Normalize not feeling guilty for putting yourself first.",
+    "author": "Pammy",
+    "category": ["selfcare"]
+  },
+  {
+    "id": 321,
+    "quote": "The more we say yes, the more complex life gets.",
+    "author": "Jack Butcher",
+    "category": ["selfcare"]
+  },
+  {
+    "id": 322,
+    "quote": "Self-hatred leads to the need either to dominate or to be dominated.",
+    "author": "Gloria Steinem",
+    "category": ["selfcare"]
+  },
+  {
+    "id": 323,
+    "quote": "Self-care is showing up for yourself when others don’t.",
+    "author": "Andrew Zaffina",
+    "category": ["selfcare"]
+  },
+  {
+    "id": 324,
+    "quote": "Self-care starts with having a regular exercise routine.",
+    "author": "Dan Go",
+    "category": ["selfcare"]
+  },
+  {
+    "id": 325,
+    "quote": "Detaching from expectations is self-care.",
+    "author": "Lance Cooper",
+    "category": ["selfcare"]
+  },
+  {
+    "id": 326,
+    "quote": "Everyone is not your assignment. That’s why you’re drained.",
+    "author": "Wesley Snipes (Source)",
+    "category": ["selfcare"]
+  },
+  {
+    "id": 327,
+    "quote": "Protect your time at all costs. Protect your mind at all costs. Protect your mission at all costs. Protect your peace at all costs. You are a walking miracle.",
+    "author": "Aaron Aalto",
+    "category": ["selfcare"]
+  },
+  {
+    "id": 328,
+    "quote": "It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinions than our own.",
+    "author": "Marcus Aurelius",
+    "category": ["selfcare"]
+  },
+  {
+    "id": 329,
+    "quote": "The truest way to decline is just to say, “it doesn’t feel right to me.” No explanation is necessary.",
+    "author": "Naval Ravikant",
+    "category": ["selfcare"]
+  },
+  {
+    "id": 330,
+    "quote": "Don’t wait for your doctor to prescribe meds before you start giving a fuck about your body.",
+    "author": "Dan Go",
+    "category": ["selfcare"]
+  },
+  {
+    "id": 331,
+    "quote": "Self-discipline is the ultimate form of self-care.",
+    "author": "Mark Manson",
+    "category": ["selfcare"]
+  },
+  {
+    "id": 332,
+    "quote": "Be ok with not being liked.",
+    "author": "Gal Shapira",
+    "category": ["selfcare"]
+  },
+  {
+    "id": 333,
+    "quote": "As you get wiser, you stop caring about everything.",
+    "author": "Maxime Lagacé",
+    "category": ["selfcare"]
+  },
+  {
+    "id": 334,
+    "quote": "Better focus follows better self-care.",
+    "author": "Unknown",
+    "category": ["selfcare"]
+  },
+  {
+    "id": 335,
+    "quote": "Taking care is one way to show your love. Another way is letting people take good care of you when you need it.",
+    "author": "Fred Rogers",
+    "category": ["selfcare"]
+  },
+  {
+    "id": 336,
+    "quote": "The ego wants to go fast. The soul needs to go slow.",
+    "author": "Maxime Lagacé",
+    "category": ["selfcare"]
+  },
+  {
+    "id": 337,
+    "quote": "The quickest way to mediocrity is to try to make everyone happy, all of the time.",
+    "author": "Mark Manson",
+    "category": ["selfcare"]
+  },
+  {
+    "id": 338,
+    "quote": "Take care of yourself before you take care of others.",
+    "author": "Sachin Bansal",
+    "category": ["selfcare"]
+  },
+    {
+    "id": 339,
+    "quote": "People are trapped in history and history is trapped in them.",
+    "author": "James Baldwin",
+    "category": ["history"]
+  },
+  {
+    "id": 340,
+    "quote": "History is who we are and why we are the way we are.",
+    "author": "David McCullough",
+    "category": ["history"]
+  },
+  {
+    "id": 341,
+    "quote": "Revolutions are the locomotives of history.",
+    "author": "Karl Marx",
+    "category": ["history"]
+  },
+  {
+    "id": 342,
+    "quote": "Blood alone moves the wheels of history.",
+    "author": "Martin Luther",
+    "category": ["history"]
+  },
+  {
+    "id": 343,
+    "quote": "Fear not for the future, weep not for the past.",
+    "author": "Percy Bysshe Shelley",
+    "category": ["history"]
+  },
+  {
+    "id": 344,
+    "quote": "History is merely a list of surprises. It can only prepare us to be surprised yet again.",
+    "author": "Kurt Vonnegut",
+    "category": ["history"]
+  },
+  {
+    "id": 345,
+    "quote": "History is a relay of revolutions.",
+    "author": "Saul Alinsky",
+    "category": ["history"]
+  },
+  {
+    "id": 346,
+    "quote": "The past changes a little every time we retell it.",
+    "author": "Hilary Mantel",
+    "category": ["history"]
+  },
+  {
+    "id": 347,
+    "quote": "Anybody can make history. Only a great man can write it.",
+    "author": "Oscar Wilde",
+    "category": ["history"]
+  },
+  {
+    "id": 348,
+    "quote": "I can’t change history, I don’t want to change history. I can only change the future. I’m working on that.",
+    "author": "Boris Becker",
+    "category": ["history"]
+  },
+  {
+    "id": 349,
+    "quote": "Many of the greatest crimes in history were caused not by hatred, but rather by indifference. They were caused by people who could have done something, but did not even bother lifting a finger. So don’t wait. Get out there. Go and vote.",
+    "author": "Yuval Noah Harari",
+    "category": ["history"]
+  },
+  {
+    "id": 350,
+    "quote": "History repeats itself, first as tragedy, second as farce.",
+    "author": "Karl Marx",
+    "category": ["history"]
+  },
+  {
+    "id": 351,
+    "quote": "History is a set of lies agreed upon.",
+    "author": "Napoleon Bonaparte",
+    "category": ["history"]
+  },
+  {
+    "id": 352,
+    "quote": "Neither the life of an individual nor the history of a society can be understood without understanding both.",
+    "author": "C. Wright Mills",
+    "category": ["history"]
+  },
+  {
+    "id": 353,
+    "quote": "Be honest. We have the science, the technology, and the wealth. What we don’t have is the will, and that’s not a reason that history will accept.",
+    "author": "Bono",
+    "category": ["history"]
+  },
+  {
+    "id": 354,
+    "quote": "History has demonstrated that the most notable winners usually encountered heartbreaking obstacles before they triumphed. They won because they refused to become discouraged by their defeats.",
+    "author": "B. C. Forbes",
+    "category": ["history"]
+  },
+  {
+    "id": 355,
+    "quote": "I believe that we must maintain pride in the knowledge that the actions we take, based on our own decisions and choices as individuals, link directly to the magnificent challenge of transforming human history.",
+    "author": "Daisaku Ikeda",
+    "category": ["history"]
+  },
+  {
+    "id": 356,
+    "quote": "There are still many causes worth sacrificing for, so much history yet to be made.",
+    "author": "Michelle Obama",
+    "category": ["history"]
+  },
+  {
+    "id": 357,
+    "quote": "Life moves fast. As much as you can, learn from your history, you have to move forward.",
+    "author": "Eddie Vedder",
+    "category": ["history"]
+  },
+  {
+    "id": 358,
+    "quote": "We don’t want tradition. We want to live in the present and the only history that is worth a tinker’s damn is the history we make today.",
+    "author": "Henry Ford",
+    "category": ["history"]
+  },
+  {
+    "id": 359,
+    "quote": "To study history means submitting to chaos and nevertheless retaining faith in order and meaning.",
+    "author": "Hermann Hesse",
+    "category": ["history"]
+  },
+  {
+    "id": 360,
+    "quote": "History is not a burden on the memory but an illumination of the soul.",
+    "author": "Lord Acton",
+    "category": ["history"]
+  },
+  {
+    "id": 361,
+    "quote": "History is a pack of lies we play on the dead.",
+    "author": "Voltaire",
+    "category": ["history"]
+  },
+  {
+    "id": 362,
+    "quote": "Fellow citizens, we cannot escape history.",
+    "author": "Abraham Lincoln",
+    "category": ["history"]
+  },
+  {
+    "id": 363,
+    "quote": "Thank you for coming. We’re gonna make some history together today.",
+    "author": "Steve Jobs",
+    "category": ["history"]
+  },
+  {
+    "id": 364,
+    "quote": "The man who has no sense of history, is like a man who has no ears or eyes.",
+    "author": "Adolf Hitler",
+    "category": ["history"]
+  },
+    {
+    "id": 365,
+    "quote": "A good newspaper should ‘bestir the people into an awareness of their own condition, provide inspiration for their thoughts and rouse them to pursue their true interests.”",
+    "author": "Jack Knight",
+    "category": ["politics"]
+  },
+  {
+    "id": 366,
+    "quote": "Politics ought to be the part-time profession of every citizen who would protect the rights and privileges of free people and who would preserve what is good and fruitful in our national heritage.",
+    "author": "Dwight D. Eisenhower",
+    "category": ["politics"]
+  },
+  {
+    "id": 367,
+    "quote": "Politics in America is the binding secular religion.",
+    "author": "Theodore H. White",
+    "category": ["politics"]
+  },
+  {
+    "id": 368,
+    "quote": "We mean by ‘politics’ the people’s business — the most important business there is.",
+    "author": "Adlai Stevenson",
+    "category": ["politics"]
+  },
+  {
+    "id": 369,
+    "quote": "Journalism’s first loyalty is to citizens.",
+    "author": "Elements of Journalism",
+    "category": ["politics"]
+  },
+  {
+    "id": 370,
+    "quote": "I happen to think that American politics is one of the noblest arts of mankind; and I cannot do anything else but write about it.",
+    "author": "Theodore H. White",
+    "category": ["politics"]
+  },
+  {
+    "id": 371,
+    "quote": "Ideas are great arrows, but there has to be a bow. And politics is the bow of idealism.",
+    "author": "Bill Moyers",
+    "category": ["politics"]
+  },
+  {
+    "id": 372,
+    "quote": "Although he’s regularly asked to do so, God does not take sides in American politics.",
+    "author": "George J. Mitchell",
+    "category": ["politics"]
+  },
+  {
+    "id": 373,
+    "quote": "Our liberty depends on the freedom of the press, and that cannot be limited without being lost.",
+    "author": "Thomas Jefferson",
+    "category": ["politics"]
+  },
+  {
+    "id": 374,
+    "quote": "The ballot box is the surest arbiter of disputes among free men.",
+    "author": "James Buchanan",
+    "category": ["politics"]
+  },
+  {
+    "id": 375,
+    "quote": "You campaign in poetry. You govern in prose.",
+    "author": "Mario Cuomo",
+    "category": ["politics"]
+  },
+  {
+    "id": 376,
+    "quote": "I am a man of fixed and unbending principles, the first of which is to be flexible at all times.",
+    "author": "Everett Dirksen",
+    "category": ["politics"]
+  },
+  {
+    "id": 377,
+    "quote": "Winning may not be everything, but losing has little to recommend it.",
+    "author": "Dianne Feinstein",
+    "category": ["politics"]
+  },
+  {
+    "id": 378,
+    "quote": "The essence of journalism is a discipline of verification.",
+    "author": "Elements of Journalism",
+    "category": ["politics"]
+  },
+  {
+    "id": 379,
+    "quote": "More things in politics happen by accident or exhaustion than happen by conspiracy.",
+    "author": "Jeff Greenfield",
+    "category": ["politics"]
+  },
+  {
+    "id": 380,
+    "quote": "Everybody’s for democracy in principle. It’s only in practice that the thing gives rise to stiff objections.",
+    "author": "Meg Greenfield",
+    "category": ["politics"]
+  },
+  {
+    "id": 381,
+    "quote": "Whenever the people are well-informed, they can be trusted with their own government.",
+    "author": "Thomas Jefferson",
+    "category": ["politics"]
+  },
+  {
+    "id": 382,
+    "quote": "The First Lady is, and always has been, an unpaid public servant elected by her husband.",
+    "author": "Lady Bird Johnson",
+    "category": ["politics"]
+  },
+  {
+    "id": 383,
+    "quote": "We are not afraid to entrust the American people with unpleasant facts, foreign ideas, alien philosophies, and competitive values. For a nation that is afraid to let its people judge the truth and falsehood in an open market is a nation that is afraid of its people.",
+    "author": "John F. Kennedy",
+    "category": ["politics"]
+  },
+  {
+    "id": 384,
+    "quote": "We should realize that the average family in America spends five minutes a week on politics.",
+    "author": "Celinda Lake",
+    "category": ["politics"]
+  },
+  {
+    "id": 385,
+    "quote": "Politics is an act of faith; you have to show some kind of confidence in the intellectual and moral capacity of the public.",
+    "author": "George McGovern",
+    "category": ["politics"]
+  },
+  {
+    "id": 386,
+    "quote": "Turn on to politics, or politics will turn on you.",
+    "author": "Ralph Nader",
+    "category": ["politics"]
+  },
+  {
+    "id": 387,
+    "quote": "The purpose of journalism is to provide people with the information they need to be free and self-governing.",
+    "author": "Elements of Journalism",
+    "category": ["politics"]
+  },
+  {
+    "id": 388,
+    "quote": "Bad officials are elected by good citizens who do not vote.",
+    "author": "George Jean Nathan",
+    "category": ["politics"]
+  },
+  {
+    "id": 389,
+    "quote": "All politics is local.",
+    "author": "Thomas P. “Tip” O’Neill",
+    "category": ["politics"]
+  },
+  {
+    "id": 390,
+    "quote": "Let me tell you, sisters, seeing dried egg on a plate in the morning is a lot dirtier than anything I’ve had to deal with in politics.",
+    "author": "Ann Richards",
+    "category": ["politics"]
+  },
+    {
+    "id": 391,
+    "quote": "It was we, the people; not we, the white male citizens... who formed the Union.",
+    "author": "Susan B. Anthony",
+    "category": ["feminism"]
+  },
+  {
+    "id": 392,
+    "quote": "If particular care and attention is not paid to the ladies, we are determined to foment a rebellion, and will not hold ourselves bound by any laws in which we have no voice or representation.",
+    "author": "Abigail Adams",
+    "category": ["feminism"]
+  },
+  {
+    "id": 393,
+    "quote": "I am no bird; and no net ensnares me: I am a free human being with an independent will.",
+    "author": "Charlotte Brontë",
+    "category": ["feminism"]
+  },
+  {
+    "id": 394,
+    "quote": "If a woman have a pint and a man a quart—why can’t she have her little pint full?",
+    "author": "Sojourner Truth",
+    "category": ["feminism"]
+  },
+  {
+    "id": 395,
+    "quote": "I do not wish them [women] to have power over men; but over themselves.",
+    "author": "Mary Wollstonecraft",
+    "category": ["feminism"]
+  },
+  {
+    "id": 396,
+    "quote": "A woman is not to marry a man merely because she is asked, or because he is attached to her, and can write a tolerable letter.",
+    "author": "Jane Austen",
+    "category": ["feminism"]
+  },
+  {
+    "id": 397,
+    "quote": "We cannot accept any code or creed that uniformly defrauds woman of all her natural rights.",
+    "author": "Elizabeth Cady Stanton",
+    "category": ["feminism"]
+  },
+  {
+    "id": 398,
+    "quote": "Let woman's claim be as broad in the concrete as the abstract. We take our stand on the solidarity of humanity, the oneness of life...",
+    "author": "Anna Julia Cooper",
+    "category": ["feminism"]
+  },
+  {
+    "id": 399,
+    "quote": "If we revert to history, we shall find that the women who have distinguished themselves have neither been the most beautiful nor the most gentle of their sex.",
+    "author": "Mary Wollstonecraft",
+    "category": ["feminism"]
+  },
+  {
+    "id": 400,
+    "quote": "Ships at a distance have every man's wish on board... The dream is the truth. They then act and do things accordingly.",
+    "author": "Zora Neale Hurston",
+    "category": ["feminism"]
+  },
+  {
+    "id": 401,
+    "quote": "One of the simplest paths to deep change is for the less powerful to speak as much as they listen, and for the more powerful to listen as much as they speak.",
+    "author": "Gloria Steinem",
+    "category": ["feminism"]
+  },
+  {
+    "id": 402,
+    "quote": "Who knows what women can be when they are finally free to become themselves?",
+    "author": "Betty Friedan",
+    "category": ["feminism"]
+  },
+  {
+    "id": 403,
+    "quote": "Now, we are becoming the men we wanted to marry. Once, women were trained to marry a doctor, not be one.",
+    "author": "Gloria Steinem",
+    "category": ["feminism"]
+  },
+  {
+    "id": 404,
+    "quote": "It is obvious that discrimination exists... The fact is that a woman who aspires to be chairman of the board, or a Member of the House, does so for exactly the same reasons as any man.",
+    "author": "Shirley Chisholm",
+    "category": ["feminism"]
+  },
+  {
+    "id": 405,
+    "quote": "The only way for a woman, as for a man, to find herself, to know herself as a person, is by creative work of her own.",
+    "author": "Betty Friedan",
+    "category": ["feminism"]
+  },
+  {
+    "id": 406,
+    "quote": "If the feminine issue is so absurd, is because the male's arrogance made it 'a discussion.’",
+    "author": "Simone de Beauvoir",
+    "category": ["feminism"]
+  },
+  {
+    "id": 407,
+    "quote": "As the sole woman in the civil rights leadership group, I was determined to bring wise women together to learn and gather strength from the experience.",
+    "author": "Dorothy Height",
+    "category": ["feminism"]
+  },
+  {
+    "id": 408,
+    "quote": "If I want to define myself, I first have to say, ‘I am a woman’; all other assertions will arise from this basic truth.",
+    "author": "Simone de Beauvoir",
+    "category": ["feminism"]
+  },
+  {
+    "id": 409,
+    "quote": "The feminine mystique says that the highest value and the only commitment for women is the fulfillment of their own femininity.",
+    "author": "Betty Friedan",
+    "category": ["feminism"]
+  },
+  {
+    "id": 410,
+    "quote": "One person plus one typewriter constitutes a movement.",
+    "author": "Pauli Murray",
+    "category": ["feminism"]
+  },
+  {
+    "id": 411,
+    "quote": "It takes a great deal of courage and independence to decide to design your own image instead of the one that society rewards...",
+    "author": "Germaine Greer",
+    "category": ["feminism"]
+  },
+  {
+    "id": 412,
+    "quote": "Power is being redefined. Women often explain with care that we mean power to control our lives, but not to dominate others.",
+    "author": "Gloria Steinem",
+    "category": ["feminism"]
+  },
+  {
+    "id": 413,
+    "quote": "The most 'emancipated' women ... showed a far greater capacity for complete sexual enjoyment.",
+    "author": "Betty Friedan",
+    "category": ["feminism"]
+  },
+  {
+    "id": 414,
+    "quote": "[Women] will not have to sacrifice the right to honorable competition and contribution anymore than they will have to sacrifice marriage and motherhood.",
+    "author": "Betty Friedan",
+    "category": ["feminism"]
+  },
+  {
+    "id": 415,
+    "quote": "Why is it acceptable for women to be secretaries, librarians, and teachers, but totally unacceptable for them to be managers, administrators, doctors, lawyers, and Members of Congress?",
+    "author": "Shirley Chisholm",
+    "category": ["feminism"]
+  },
+  {
+    "id": 416,
+    "quote": "I would like to ask that we begin to dream about and plan for a different world. A fairer world... We must raise our daughters differently. We must also raise our sons differently.",
+    "author": "Chimamanda Ngozi Adichie",
+    "category": ["feminism"]
   }
 ]
